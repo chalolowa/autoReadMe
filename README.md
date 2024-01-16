@@ -22,7 +22,7 @@
   <summary>Quick Tips</summary>
 <ul>
 <li>
-<p>💬 How to reach me: DM <a href="https://twitter.com/iambolajiayo">@iambolajiayo</a> on X (Twitter).</p>
+<p>💬 How to reach me: DM <a href="https://twitter.com/Locha_740">@Locha_740</a> on X (Twitter).</p>
 </li>
 <li>
 <p>📖 Book recommendations: <a href="https://bit.ly/3EdCFUW">Knowing God by J. I. Packer</a> and <a href="https://bit.ly/45r1kBH">Atomic Habits by James Clear</a>.</p>

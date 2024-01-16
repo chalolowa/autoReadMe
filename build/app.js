@@ -88,7 +88,7 @@ function generateMarkdown() {
 
   <details>\n
   <summary>Quick Tips</summary>\n\n
-  - 💬 How to reach me: DM [@iambolajiayo](https://twitter.com/iambolajiayo) on X (Twitter).\n
+  - 💬 How to reach me: DM [@Locha_740](https://twitter.com/Locha_740) on X (Twitter).\n
   - 📖 Book recommendations: [Knowing God by J. I. Packer](https://bit.ly/3EdCFUW) and [Atomic Habits by James Clear](https://bit.ly/45r1kBH).\n
   - 💙 Fun fact: I'm also a rugby player.\n
   </details>\n
